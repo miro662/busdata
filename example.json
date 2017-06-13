@@ -1,0 +1,23 @@
+{
+    "Workdays": [
+        {
+            "Hour": 21,
+            "Minute": 37,
+            "BusType": "MPK",
+            "AdditionalInfo": "test additional info"
+        },
+        {
+            "Hour": 14,
+            "Minute": 0,
+            "BusType": "MKS"
+        }
+    ],
+    "Saturday": [
+        {
+            "Hour": 0,
+            "Minute": 0,
+            "BusType": "PKS"
+        }
+    ],
+    "Sunday": []
+}
