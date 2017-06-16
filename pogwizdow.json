@@ -1,0 +1,228 @@
+{
+	"Workdays": [
+		{
+			"Hour": 5,
+			"Minute": 12,
+			"BusType": "MKS"
+		},
+		{
+			"Hour": 5,
+			"Minute": 58,
+			"BusType": "MKS"
+		},
+		{
+			"Hour": 6,
+			"Minute": 45,
+			"BusType": "MKS"
+		},
+		{
+			"Hour": 7,
+			"Minute": 20,
+			"BusType": "MKS"
+		},
+		{
+			"Hour": 7,
+			"Minute": 57,
+			"BusType": "MKS"
+		},
+		{
+			"Hour": 8,
+			"Minute": 35,
+			"BusType": "MKS"
+		},
+		{
+			"Hour": 9,
+			"Minute": 20,
+			"BusType": "MKS"
+		},
+		{
+			"Hour": 10,
+			"Minute": 40,
+			"BusType": "MKS"
+		},
+		{
+			"Hour": 11,
+			"Minute": 50,
+			"BusType": "MKS"
+		},
+		{
+			"Hour": 13,
+			"Minute": 22,
+			"BusType": "MKS"
+		},
+		{
+			"Hour": 14,
+			"Minute": 10,
+			"BusType": "MKS"
+		},
+		{
+			"Hour": 15,
+			"Minute": 5,
+			"BusType": "MKS"
+		},
+		{
+			"Hour": 15,
+			"Minute": 30,
+			"BusType": "MKS"
+		},
+		{
+			"Hour": 16,
+			"Minute": 20,
+			"BusType": "MKS"
+		},
+		{
+			"Hour": 16,
+			"Minute": 57,
+			"BusType": "MKS"
+		},
+		{
+			"Hour": 17,
+			"Minute": 30,
+			"BusType": "MKS"
+		},
+		{
+			"Hour": 18,
+			"Minute": 33,
+			"BusType": "MKS"
+		},
+		{
+			"Hour": 19,
+			"Minute": 28,
+			"BusType": "MKS"
+		},
+		{
+			"Hour": 20,
+			"Minute": 28,
+			"BusType": "MKS"
+		},
+		{
+			"Hour": 21,
+			"Minute": 12,
+			"BusType": "MKS"
+		},
+		{
+			"Hour": 22,
+			"Minute": 17,
+			"BusType": "MKS"
+		}
+	],
+	"Saturday": [
+		{
+			"Hour": 5,
+			"Minute": 32,
+			"BusType": "MKS"
+		},
+		{
+			"Hour": 6,
+			"Minute": 7,
+			"BusType": "MKS"
+		},
+		{
+			"Hour": 6,
+			"Minute": 58,
+			"BusType": "MKS"
+		},
+		{
+			"Hour": 7,
+			"Minute": 23,
+			"BusType": "MKS"
+		},
+		{
+			"Hour": 8,
+			"Minute": 58,
+			"BusType": "MKS"
+		},
+		{
+			"Hour": 9,
+			"Minute": 38,
+			"BusType": "MKS"
+		},
+		{
+			"Hour": 10,
+			"Minute": 58,
+			"BusType": "MKS"
+		},
+		{
+			"Hour": 11,
+			"Minute": 48,
+			"BusType": "MKS"
+		},
+		{
+			"Hour": 13,
+			"Minute": 33,
+			"BusType": "MKS"
+		},
+		{
+			"Hour": 14,
+			"Minute": 53,
+			"BusType": "MKS"
+		},
+		{
+			"Hour": 16,
+			"Minute": 43,
+			"BusType": "MKS"
+		},
+		{
+			"Hour": 18,
+			"Minute": 38,
+			"BusType": "MKS"
+		},
+		{
+			"Hour": 20,
+			"Minute": 33,
+			"BusType": "MKS"
+		},
+		{
+			"Hour": 21,
+			"Minute": 38,
+			"BusType": "MKS"
+		}
+	],
+	"Sunday": [
+		{
+			"Hour": 6,
+			"Minute": 7,
+			"BusType": "MKS"
+		},
+		{
+			"Hour": 7,
+			"Minute": 22,
+			"BusType": "MKS"
+		},
+		{
+			"Hour": 8,
+			"Minute": 43,
+			"BusType": "MKS"
+		},
+		{
+			"Hour": 11,
+			"Minute": 3,
+			"BusType": "MKS"
+		},
+		{
+			"Hour": 12,
+			"Minute": 48,
+			"BusType": "MKS"
+		},
+		{
+			"Hour": 14,
+			"Minute": 38,
+			"BusType": "MKS"
+		},
+		{
+			"Hour": 16,
+			"Minute": 33,
+			"BusType": "MKS"
+		},
+		{
+			"Hour": 18,
+			"Minute": 18,
+			"BusType": "MKS"
+		},
+		{
+			"Hour": 20,
+			"Minute": 22,
+			"BusType": "MKS"
+		}
+	]
+}
