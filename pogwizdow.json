@@ -104,6 +104,46 @@
 			"Hour": 22,
 			"Minute": 17,
 			"BusType": "MKS"
+		},
+		{
+			"Hour": 6,
+			"Minute": 6,
+			"BusType": "MPK"
+		},
+		{
+			"Hour": 6,
+			"Minute": 56,
+			"BusType": "MPK"
+		},
+		{
+			"Hour": 8,
+			"Minute": 11,
+			"BusType": "MPK"
+		},
+		{
+			"Hour": 12,
+			"Minute": 41,
+			"BusType": "MPK"
+		},
+		{
+			"Hour": 16,
+			"Minute": 10,
+			"BusType": "MPK"
+		},
+		{
+			"Hour": 17,
+			"Minute": 35,
+			"BusType": "MPK"
+		},
+		{
+			"Hour": 19,
+			"Minute": 34,
+			"BusType": "MPK"
+		},
+		{
+			"Hour": 23,
+			"Minute": 36,
+			"BusType": "MPK"
 		}
 	],
 	"Saturday": [
